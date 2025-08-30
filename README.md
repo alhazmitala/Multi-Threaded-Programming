@@ -3,6 +3,7 @@ During this experiment, I implemented multithreaded programming to sum integers 
 One common use case for multithreaded programming is when performing computationally intensive tasks, such as, in the context of this experiment, summing integers in an array. By dividing the array into smaller sub-arrays and summing each sub-array in parallel, I accurately observed the runtime of each array summation and compared them using a different number of threads, all the while addressing synchronization challenges to prevent race conditions and ensure accurate results.
 
 Experiment results are found in the `MultithreadedProgrammingResults.pdf` file attached.
+
 Further details and project results are found in the `MultithreadedProgrammingReport.pdf` file attached.
 
 # Details
